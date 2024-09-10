@@ -2,9 +2,12 @@
     border-style: solid;
     border-color: pink;
     width: 320px;
-    margin: 8px;
+    margin: 0px;
     padding: 8px;
     border-radius: 4px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: end;
+    font-size: 18px;
 }
 .numbers{
     max-width: 320px;
