@@ -1,0 +1,42 @@
+.display{
+    border-style: solid;
+    border-color: pink;
+    width: 320px;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 4px;
+}
+.numbers{
+    max-width: 320px;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 8px;
+    margin: 8px;
+    gap: 8px;
+}
+
+.numbers button{
+    width: 100px;
+    height: 54px;
+    background-color: pink;
+    color:black;
+    font-size: 18px;
+    border-radius: 4px;
+
+}
+.operations{
+    max-width: 320px;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 8px;
+    margin: 8px;
+    gap: 8px;
+}
+.operations button{
+    width: 100px;
+    height: 54px;
+    background-color: pink;
+    color:black;
+    font-size: 18px;
+    border-radius: 4px;
+}
